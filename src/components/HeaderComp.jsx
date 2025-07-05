@@ -13,7 +13,7 @@ const HeaderComp = () => {
         <img src={profile} alt="Photo de profil" />
         <div className="user-infos">
           <h1>LALOI Ketelove</h1>
-          <h3>Développeuse web - mobile</h3>
+          <h3>Développeuse web(Front-END)/ Graphic-Designer </h3>
           <div className="contacts">
             <div className="contact-item">
               <a
