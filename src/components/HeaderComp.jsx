@@ -1,5 +1,5 @@
 import { Button } from "antd";
-import profile from "../assets/images/identite.png";
+import profile from "../assets/images/Kate.jpg";
 import {
   FacebookOutlined,
   GithubOutlined,
