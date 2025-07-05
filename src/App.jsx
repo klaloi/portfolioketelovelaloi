@@ -19,11 +19,11 @@ function App() {
               <article>
                 <h2>Parlons un peu de moi</h2>
                 <p>
-                  Passionné par le développement web et les nouvelles technologies, je mets mon savoir-faire au service de projets innovants et ambitieux. Curieux et créatif, j'aime relever des défis techniques et concevoir des solutions sur mesure pour répondre aux besoins de mes clients.
+                  Passionnée par le développement web et les nouvelles technologies, je mets mon savoir-faire au service de projets innovants et ambitieux. Curieuse et créative, j'aime relever des défis techniques et concevoir des solutions sur mesure pour répondre aux besoins de mes clients.
                   <br /><br />
                   Grâce à mes compétences en HTML, CSS, JavaScript, React et d'autres frameworks modernes, je suis capable de créer des sites web performants, responsives et esthétiques. J'ai également une bonne maîtrise de la gestion de projet, ce qui me permet de travailler efficacement en équipe et de livrer des résultats de qualité dans les délais impartis.
                   <br /><br />
-                  Autonome, rigoureux et toujours prêt à apprendre de nouvelles choses, je reste à l'écoute des tendances pour améliorer constamment mes pratiques. Mon objectif est de contribuer à des projets qui ont un impact positif et de continuer à progresser en tant que développeur.
+                  Autonome, rigoureuse et toujours prête à apprendre de nouvelles choses, je reste à l'écoute des tendances pour améliorer constamment mes pratiques. Mon objectif est de contribuer à des projets qui ont un impact positif et de continuer à progresser en tant que développeur.
                 </p>
               </article>
             </section>
