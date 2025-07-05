@@ -46,8 +46,8 @@ const AsideComp = () => {
             Je possède une solide maîtrise des technologies web telles que HTML, CSS,
             JavaScript et React, ce qui me permet de créer des sites modernes,
             responsives et performants. Je sais également travailler avec des outils de
-            versioning comme Git et collaborer efficacement en équipe. Curieux et
-            passionné, j’améliore constamment mes compétences pour proposer des solutions
+            versioning comme Git et collaborer efficacement en équipe. Curieuse et
+            passionnée, j’améliore constamment mes compétences pour proposer des solutions
             adaptées et innovantes à chaque projet.
           </p>
           <div className="skills">
