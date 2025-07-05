@@ -36,19 +36,19 @@ export const projects = [
 export const experience = [
   {
     id: 1,
-    title: "Conception et maintenance de base de données pour une startup",
+    title: "Conception et maintenance de base de données pour une startup (2023 - 2025)",
     description:
       "Développement et gestion d'une base de données évolutive pour répondre aux besoins d'une jeune entreprise en pleine croissance",
   },
   {
     id: 2,
-    title: "Création de visuels sur Canva, Word et Photopea",
+    title: "Création de visuels sur Canva, Word et Photopea(2022 - 2025)",
     description:
       "Réalisation de supports graphiques attractifs (affiches, flyers, présentations) en utilisant Canva, Microsoft Word et Photopea pour des projets variés.",
   },
   {
     id: 3,
-    title: "Mise en page de documents professionnels",
+    title: "Mise en page de documents professionnels (2021 - 2025)",
     description:
       "Mise en forme de CV, brochures et rapports professionnels avec une présentation soignée et moderne.",
   },
